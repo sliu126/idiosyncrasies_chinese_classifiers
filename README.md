@@ -1,5 +1,5 @@
-# idiosyncrasies_chinese_classifiers
-Code and data for [On the Idiosyncrasies of the Mandarin Chinese Classifier System](https://arxiv.org/abs/1902.10193).
+# On the Idiosyncrasies of the Mandarin Chinese Classifier System
+Code and data for [On the Idiosyncrasies of the Mandarin Chinese Classifier System (NAACL 2019)](https://arxiv.org/abs/1902.10193).
 
 ## Code Dependencies
 The code needs to be run in Python3. Packages that need to be installed are pickle, tqdm and nltk.
