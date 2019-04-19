@@ -7,25 +7,25 @@ The code needs to be run in Python3. Packages that need to be installed are pick
 ## Running Experiments
 To compute the mutual information between classifiers and nouns, run
 ```
-python computer_mutual_information.py -ICN
+python compute_mutual_information.py -ICN
 ```
 
 To compute the mutual information between classifiers and adjectives, run
 ```
-python computer_mutual_information.py -ICA
+python compute_mutual_information.py -ICA
 ```
 
 To compute the mutual information between classifiers and noun supersenses, run
 ```
-python computer_mutual_information.py -ICNS
+python compute_mutual_information.py -ICNS
 ```
 
 To compute the mutual information between classifiers and adjective supersenses, run
 ```
-python computer_mutual_information.py -ICAS
+python compute_mutual_information.py -ICAS
 ```
 
 To compute the mutual information between classifiers and noun synsets, run
 ```
-python computer_mutual_information.py -ICS
+python compute_mutual_information.py -ICS
 ```
